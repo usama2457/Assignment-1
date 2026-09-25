@@ -1,5 +1,7 @@
 ## Financial
 
+![Financial milestone](image/financial.jpg)
+
 - Paid off all student loans
 - $500,000 combined in savings and investments
 - Built an emergency fund covering 6 months of expenses
