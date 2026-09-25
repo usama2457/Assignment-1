@@ -1,5 +1,7 @@
 ## Travel
 
+![Travel milestone](image/travel.jpg)
+
 - Visited at least 10 countries across multiple continents
 - Took at least one solo trip
 - Experienced a completely different culture long enough to actually learn something about it, not just sightsee
