@@ -1,5 +1,7 @@
 ## Health
 
+![Health milestone](image/health.jpg)
+
 - Reached 200lbs at a lean, sustainable body composition
 - Maintained a consistent training routine (not just a short-term push)
 - Comfortable and confident in day-to-day physical performance, not just how I look
