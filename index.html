@@ -20,16 +20,16 @@
         <script>
      $("document").ready(()=>{
     $.get("Career.md").then((sData)=>{
-        $("#article_1").append(marked(sData));
+        $("#Career").append(marked(sData));
     });
     $.get("Financial.md").then((sData)=>{
-        $("#article_2").append(marked(sData));
+        $("#Financial").append(marked(sData));
     });
     $.get("Health.md").then((sData)=>{
-        $("#article_3").append(marked(sData));
+        $("#Health").append(marked(sData));
     });
     $.get("Travel.md").then((sData)=>{
-        $("#article_4").append(marked(sData));
+        $("#Travel").append(marked(sData));
     });
     $.get("research.md").then((sData)=>{
         $("#research").append(marked(sData));
