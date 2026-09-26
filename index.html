@@ -18,23 +18,23 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/1.1.1/marked.js"></script>
         <script>
-            $("document").ready(()=>{
-                $.get("article_1.md").then((sData)=>{
-                    $("#article_1").append(marked(sData));
-                });
-                $.get("article_2.md").then((sData)=>{
-                    $("#article_2").append(marked(sData));
-                });
-                $.get("article_3.md").then((sData)=>{
-                    $("#article_3").append(marked(sData));
-                });
-                $.get("article_4.md").then((sData)=>{
-                    $("#article_4").append(marked(sData));
-                });
-                $.get("research.md").then((sData)=>{
-                    $("#research").append(marked(sData));
-                });
-            });
+     $("document").ready(()=>{
+    $.get("Career.md").then((sData)=>{
+        $("#article_1").append(marked(sData));
+    });
+    $.get("Financial.md").then((sData)=>{
+        $("#article_2").append(marked(sData));
+    });
+    $.get("Health.md").then((sData)=>{
+        $("#article_3").append(marked(sData));
+    });
+    $.get("Travel.md").then((sData)=>{
+        $("#article_4").append(marked(sData));
+    });
+    $.get("research.md").then((sData)=>{
+        $("#research").append(marked(sData));
+    });
+});
         </script>
     </body>
 </html>
